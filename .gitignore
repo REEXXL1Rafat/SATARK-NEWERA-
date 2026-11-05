@@ -1,0 +1,6 @@
+key.txt
+data/cache/
+__pycache__/
+# rebuilt every morning, published to GitHub Pages, no need to keep in git
+out/index.html
+out/*/latest.json
